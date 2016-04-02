@@ -1,0 +1,15 @@
+%p#notice= notice
+
+%p
+  %b Name:
+  = @bike.name
+%p
+  %b Price:
+  = @bike.price
+%p
+  
+  = image_tag @bike.image
+
+= link_to 'Edit', edit_bike_path(@bike)
+\|
+= link_to 'Back', bikes_path

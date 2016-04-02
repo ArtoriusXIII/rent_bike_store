@@ -1,0 +1,21 @@
+%h1 Listing bikes
+
+%table.table.table-hover
+  %thead
+    %tr
+      %th Name
+      %th Price
+      %th Image
+    
+
+    - @bikes.each do |bike|
+      %tr
+        %td= link_to bike.name, bike
+        %td= bike.price
+        %td= image_tag bike.image.thumb
+        %td
+          = link_to 'Show', bike
+          = link_to 'Edit', edit_bike_path(bike)
+          = link_to 'Destroy', bike, :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%p= link_to 'New Bike', new_bike_path, class: "btn btn-primary"
