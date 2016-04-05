@@ -1,7 +1,7 @@
 == README
 
 <p align="center">
-  <img src="pics.PNG" width="350"/>
+  <img src="Capture.JPG" width="350"/>
   <img src="http://lmsotfy.com/so.png" width="350"/>
 </p>
 This README would normally document whatever steps are necessary to get the
@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+* Configurationgit
 
 * Database creation
 
