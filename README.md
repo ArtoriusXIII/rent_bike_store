@@ -1,11 +1,14 @@
 == README
 
-![Alt text](relative/path/to/Capture.PNG?raw=true "Title")
+<p align="center">
+  <img src="C:\Users\artur_000\Desktop\project/capture.png" width="350"/>
+  <img src="http://lmsotfy.com/so.png" width="350"/>
+</p>
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-
+![stack Overflow](http://lmsotfy.com/so.png)
 * Ruby version
 
 * System dependencies
