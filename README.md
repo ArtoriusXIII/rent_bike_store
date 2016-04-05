@@ -1,5 +1,6 @@
 == README
 
+![alt text](screenshots/Capture.PNG "Description goes here")
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
