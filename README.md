@@ -1,6 +1,6 @@
 == README
 
-![alt text](C:\Users\artur_000\Desktop\project/Capture.PNG "Description goes here")
+![Alt text](relative/path/to/Capture.PNG?raw=true "Title")
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
